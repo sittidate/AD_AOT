@@ -21,7 +21,8 @@ class App extends BaseConfig
 	| environments.
 	|
 	*/
-	public $baseURL = 'http://localhost:8080/';
+	public $baseURL = 'http://localhost:81/AD_AOT/public/';
+	// public $baseURL = 'C:/xampp/htdocs/AD_AOT/';
 
 	/*
 	|--------------------------------------------------------------------------
